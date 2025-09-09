@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucas Fornero 👋
+<h1 align="center"> 👋 Hi, I'm Lucas Fornero 👋</h1>
 
 - Computer Engineering student and developer in training, passionate about web development, JavaScript, Python, and databases.I create projects, solve challenges, and share knowledge to improve as a programmer every day.
 ---
