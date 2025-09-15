@@ -19,3 +19,8 @@
 # 💡 What you'll find here: personal projects, programming exercises, and code experiments.💡
 
 - Open to learning, collaborating, and exploring opportunities both locally and internationally.
+
+# Contact me!
+<a href="mailto:lucasfornero2012@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+
