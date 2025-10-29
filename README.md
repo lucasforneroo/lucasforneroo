@@ -34,6 +34,14 @@
 
 - Open to learning, collaborating, and exploring opportunities both locally and internationally.
 
+### 💻 My GitHub Stats
+
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasforneroo&show_icons=true&theme=tokyonight)
+
+### 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasforneroo&layout=compact&theme=tokyonight)
+
 # Contact me!
 
 <p align="left">
