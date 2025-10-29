@@ -36,11 +36,11 @@
 
 ### 💻 My GitHub Stats
 
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasforneroo&show_icons=true&theme=tokyonight)
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasforneroo&show_icons=true&theme=gruvbox)
 
 ### 🧠 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasforneroo&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasforneroo&layout=compact&theme=gruvbox)
 
 # Contact me!
 
